@@ -1,0 +1,23 @@
+[
+    {
+        "tipo": "Espresso",
+        "precio": "300"
+    },
+    {
+        "tipo": "Jarrito Cortado",
+        "precio": "300"
+    },
+    {
+        "tipo": "Latte",
+        "precio": "330"
+    },
+    {
+        "tipo": "Capuccino Especial",
+        "precio": "360"
+    },
+    {
+        "tipo": "Mocaccino",
+        "precio": "480"
+    }
+   
+]
