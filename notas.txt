@@ -2,3 +2,8 @@ https://api.mercadolibre.com/sites/MLA/search?q=reloj
 https://weatherdbi.herokuapp.com/
 https://jsonlint.com/
 https://fonts.google.com/specimen/Source+Sans+Pro?query=source
+
+Javascript Usage
+fetch("https://weatherdbi.herokuapp.com/data/weather/london")
+    .then(res=>res.json())
+    .then(json=>console.log(json))
