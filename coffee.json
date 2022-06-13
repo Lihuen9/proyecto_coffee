@@ -13,11 +13,16 @@
     },
     {
         "tipo": "Capuccino Especial",
-        "precio": "360"
+        "precio": "380"
     },
     {
         "tipo": "Mocaccino",
         "precio": "480"
+    },
+    {
+        "tipo": "Super Especial",
+        "precio": "580"
     }
+
    
 ]
