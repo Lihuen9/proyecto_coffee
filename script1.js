@@ -4,7 +4,7 @@ function fetchdata() {
     .then((data) =>{
         let output= "<table>"+"<tbody>"
         data.forEach(element => {
-            output+=`<tr><td>${element.tipo}</td><td>${element.precio}</td></tr>`           
+            output+="<tr><td>"+element.tipo+"</td><td>"+element.precio+"</td></tr>"           
         });
             
         output+="</tbody>";
