@@ -20,8 +20,12 @@
         "precio": "480"
     },
     {
-        "tipo": "Super Especial",
-        "precio": "580"
+        "tipo": "Cafe de la casa Especial",
+        "precio": "759"
+    },
+    {
+        "tipo": "Cafe cumbia 420",
+        "precio": "420"
     }
 
    
